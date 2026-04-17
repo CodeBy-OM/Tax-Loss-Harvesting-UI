@@ -44,24 +44,24 @@ npm run build
 ```
 
 ## Project Structure-
+```
 tax-loss-harvesting-ui/
 │
 ├── public/
-│
 ├── src/
-│   ├── api/              # API calls / mock data
-│   ├── components/       # reusable UI components
-│   ├── pages/            # (NEW) pages like Dashboard, Home
-│   ├── assets/           # (NEW) images, icons
-│   ├── utils/            # (NEW) helper functions
-│   │
+│   ├── api/          # API calls / mock data
+│   ├── components/   # reusable UI components
+│   ├── pages/        # pages like Dashboard, Home
+│   ├── assets/       # images, icons
+│   ├── utils/        # helper functions
 │   ├── App.jsx
 │   ├── index.js
 │   └── App.css
 │
 ├── .gitignore
 ├── package.json
-├── README.md             
+└── README.md
+```
 
 ## Assumptions
 
